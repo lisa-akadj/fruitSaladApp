@@ -1,0 +1,16 @@
+{
+  "name": "fruitsaladapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "watchify ./script.js -o bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "watchify": "^4.0.0"
+  }
+}
